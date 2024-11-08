@@ -1,0 +1,22 @@
+{
+  "name": "codename_quanda",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "buildcss": "tailwindcss -i ./src/input.css -o ./public/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwandileMgenge/CodeName_Quanda.git"
+  },
+  "author": "Kwandile Mgenge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwandileMgenge/CodeName_Quanda/issues"
+  },
+  "homepage": "https://github.com/KwandileMgenge/CodeName_Quanda#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
