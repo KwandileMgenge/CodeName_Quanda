@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/KwandileMgenge/CodeName_Quanda#readme",
   "devDependencies": {
+    "prettier-plugin-tailwindcss": "^0.6.8",
     "tailwindcss": "^3.4.14"
   }
 }
